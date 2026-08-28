@@ -20,3 +20,5 @@ Jenkins Freestyle:
 3. Click Build Now.
 4. Later add Post-build Action -> Archive artifacts:
        target/*.jar
+
+This is a sample repository for learning Jenkins.
