@@ -153,11 +153,11 @@ pipeline {
         }
 
         failure {
-            echo 'Pipeline failed!'
+            echo 'Pipeline failed!  '
         }
 
         always {
-            echo 'Pipeline has finished.'
+            echo 'Pipeline has finished. '
         }
     }
 }
